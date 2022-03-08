@@ -1,7 +1,7 @@
 header {
+    height: 60px;
     background-color: var(--color-primary);
-    height:  60px;
-    display:flex;
+    display: flex;
     align-items: center;
 }
 
@@ -17,16 +17,15 @@ header {
     margin: 0;
     font-weight: 700;
     font-size: 24px;
+
 }
 
-.dsmovie-contact-conteiner {
+.dsmovie-contact-container {
     display: flex;
     align-items: center;
 }
 
 .dsmovie-contact-link {
-    margin: 0 0 0;
-    font-size: 12px;
-    
-    
+    margin: 0 0 0 10px;
+    font-size: 20px; 
 }
