@@ -7,8 +7,8 @@ function Navbar () {
     <header>
     <nav className="container">
         <div className="dsmovie-nav-content">
-            <h1>DSMovie</h1>
-            <a href="github.com/f4gner" target="_blank" rel="noreferrer">
+            <h1>Fagner-DSMovie</h1>
+            <a href="github.com/f4gner"target="_blank" rel="noreferrer">
                 <div className="dsmovie-contact-container">
                     <GithubIcon />
                     <p className="dsmovie-contact-link">/devsuperior</p>
